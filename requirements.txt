@@ -8,4 +8,4 @@ xgboost
 plotly
 joblib
 streamlit
-pickle
+
