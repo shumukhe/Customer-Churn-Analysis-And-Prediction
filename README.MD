@@ -2,6 +2,8 @@
 
 This project explores historical customer data, uncovers churn patterns, trains machine learning models to predict churn risk, and proposes strategies to improve retention.
 
+[🔗 Live Demo](https://customer-churn-analysis-and-prediction-koz7xxyydmvijcuges6mw8.streamlit.app/)
+
 ---
 
 ## 🚀 Project Overview
